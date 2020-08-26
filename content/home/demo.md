@@ -50,7 +50,7 @@ subtitle = "Haced lo mejor que puedas y el Señor tu Dios agregara su poder a es
  css_class = ""
 +++
 
-ESTÁS **PREPARADO!**
+¿ESTÁS **PREPARADO?**
 
 DEBEMOS PREPARARNOS.....
 
