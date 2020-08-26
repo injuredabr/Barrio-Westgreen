@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "**Barrio Westgreen**"
-subtitle = "[Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo.]"
+subtitle = "Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,8 +49,6 @@ subtitle = "[Haced lo mejor que puedas y el Señor tu Dios agregara su poder a e
  # CSS class.
  css_class = ""
 +++
-
-
 
 Welcome to the **Academic Kickstart** template!
 
