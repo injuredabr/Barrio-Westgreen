@@ -8,8 +8,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
-subtitle = ""
+title = "Barrio Westgreen"
+subtitle = "Haced lo mejor que puedas y el Señor tu Dios 
+agregara su poder a ese esfuerzo. "
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -67,9 +68,6 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Wear the T-shirt](https://academic.threadless.com/)
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
+“Así como es importante estar preparados espiritualmente, también lo es prepararnos para
+nuestras necesidades temporales y  de EMERGENCIA.”
 {{% /alert %}}
