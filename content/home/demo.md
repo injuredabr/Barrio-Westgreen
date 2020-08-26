@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Barrio Westgreen"
-subtitle = "Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo. "
+title = "**Barrio Westgreen**"
+subtitle = "[Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo.]"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,6 +50,8 @@ subtitle = "Haced lo mejor que puedas y el Señor tu Dios agregara su poder a es
  css_class = ""
 +++
 
+
+
 Welcome to the **Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
@@ -68,5 +70,5 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
 
 {{% alert note %}}
 Así como es importante estar preparados espiritualmente, también lo es prepararnos para
-nuestras necesidades temporales y  de EMERGENCIA.
+nuestras necesidades **temporales** y  de **EMERGENCIA.**
 {{% /alert %}}
