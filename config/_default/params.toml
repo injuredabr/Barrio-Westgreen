@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Barrio Westgreen"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Recursos útiles para situaciones de emergencia y temas para el sacerdocio"
 
 ############################
 ## Site Features
@@ -88,8 +88,8 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "jumadoag@gmail.com"
+phone = "832 771 16 92"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -217,12 +217,12 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+    show_count = false  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
   [comments.commento]
@@ -265,7 +265,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
