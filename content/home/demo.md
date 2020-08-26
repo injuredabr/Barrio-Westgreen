@@ -9,8 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Barrio Westgreen"
-subtitle = "Haced lo mejor que puedas y el Señor tu Dios 
-agregara su poder a ese esfuerzo. "
+subtitle = "Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo. "
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -68,6 +67,6 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Wear the T-shirt](https://academic.threadless.com/)
 
 {{% alert note %}}
-“Así como es importante estar preparados espiritualmente, también lo es prepararnos para
-nuestras necesidades temporales y  de EMERGENCIA.”
+Así como es importante estar preparados espiritualmente, también lo es prepararnos para
+nuestras necesidades temporales y  de EMERGENCIA.
 {{% /alert %}}
