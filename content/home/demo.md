@@ -50,21 +50,19 @@ subtitle = "Haced lo mejor que puedas y el Señor tu Dios agregara su poder a es
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+ESTÁS **PREPARADO!**
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+DEBEMOS PREPARARNOS.....
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.app). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
-
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+- Vivimos en una de las épocas mas emocionantes y difíciles de la historia humana. Mientras la tecnología se infiltra en cada faceta de nuestra existencia, los cambios se suceden con tanta rapidez que tal vez sea difícil mantener el equilibrio en nuestra vida.
+- Para alcanzar cierto grado de estabilidad, es esencial que planeemos nuestro futuro.
+- Creo que es el momento de recordar, y quizás con cierta urgencia, el consejo que hemos recibido concerniente a la preparación personal y familiar.
+- Deseamos ser hallados con bastante aceite en nuestras lámparas para perseverar hasta el fin.
+- El presidente Spencer W. Kimball nos ha amonestado, diciendo:
+  - “Al repasar el consejo que nos da el Señor sobre la importancia de la preparación, me impresiona la sencillez del mensaje.
+  - El Salvador pone bien en claro que no podemos tener suficiente aceite en nuestras lámparas de preparación con solamente evitar el mal.
+  - Debemos además estar diligentemente embarcados en un programa concreto de preparación”.
+  - Que incluye un plan **económico** y de **EMERGENCIA !**
 
 {{% alert note %}}
 Así como es importante estar preparados espiritualmente, también lo es prepararnos para
