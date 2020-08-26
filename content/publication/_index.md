@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-prueba
+Aquí podrás encontrar los recursos mediante un filtro de búsqueda.
