@@ -4,3 +4,5 @@
 # Hugo
 resources/
 public/
+
+git config --global --bool --add http.sslVerify false
