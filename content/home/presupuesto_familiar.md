@@ -79,5 +79,4 @@ La Primera Presidencia
 
 [Imagen Plan De Finanzas Mensual](https://static.wixstatic.com/media/abda79_3219980274d044a7b307ac26b9befb71~mv2.jpg/v1/fill/w_750,h_899,al_c,q_85,usm_0.66_1.00_0.01/Picture1.webp)
 
-[Imagen Plan Finanzas Mensual(assets/images/Hoja_de_ presupuesto.png)
-
+{{< figure src="(assets/images/Hoja_de_ presupuesto.png" >}}
