@@ -137,5 +137,6 @@ Escoja dos lugares de reunión:
 
     Mantenga los documentos personales de la familia en un recipiente a prueba de agua y de incendio. (Papeles de seguro, contrato casa, etc).
 
+[Kit de Emergencia](https://raw.githubusercontent.com/injuredabr/Barrio-Westgreen/master/assets/images/kit%20de%20emergencia.png)
 
 
