@@ -77,6 +77,6 @@ La Primera Presidencia
 
 [5 Pilares de las finanzas personales](https://www.youtube.com/watch?v=0YasE7F-9CM)
 
-{{< figure library="true" src="assets/images/Hoja_de_ presupuesto.png" title="Presupuesto Familiar mensual" >}}
+{{< figure library="false" src="assets/images/Hoja_de_ presupuesto.png" title="Presupuesto Familiar mensual" >}}
   
 
