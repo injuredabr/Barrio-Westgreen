@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -123,7 +123,7 @@ Si vive en un apartamento, pida a la gerencia que identifique y marque las salid
 
 
 
-    Escoja un amigo o pariente local y otro fuera del estado a quien sus parientes puedan llamar si se encuentran separados por un desastre.
+Escoja un amigo o pariente local y otro fuera del estado a quien sus parientes puedan llamar si se encuentran separados por un desastre.
 
 
 
