@@ -78,7 +78,7 @@ La Primera Presidencia
 {{< gallery album="<images>" >}}
   gallery_item:
 - album: <images>
-  image: <Hoja de presupuesto>.png
+  image: <Hoja_de _presupuesto>.png
   caption: Presupuesto Familiar mensual
   
 
