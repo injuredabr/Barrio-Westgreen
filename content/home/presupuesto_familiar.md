@@ -77,6 +77,6 @@ La Primera Presidencia
 
 {{< youtube 0YasE7F-9CM >}}
 
-[Imagen Plan De Finanzas Mensual](https://static.wixstatic.com/media/abda79_3219980274d044a7b307ac26b9befb71~mv2.jpg/v1/fill/w_750,h_899,al_c,q_85,usm_0.66_1.00_0.01/Picture1.webp)
+[Imagen Plan De Finanzas Mensual](https://raw.githubusercontent.com/injuredabr/Barrio-Westgreen/master/assets/images/Hoja_de_%20presupuesto.png)
 
-{{< figure src="(assets/images/Hoja_de_ presupuesto.png" >}}
+
