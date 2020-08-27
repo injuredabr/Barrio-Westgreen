@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Presupuesto Familiar"
-  url = "#presupuesto _familiar"
+  url = "#presupuesto_familiar"
   weight = 30
 
 [[main]]
