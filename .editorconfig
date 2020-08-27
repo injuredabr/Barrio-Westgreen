@@ -18,3 +18,5 @@ trim_trailing_whitespace = false
 
 [layouts/shortcodes/*.html]
 insert_final_newline = false
+
+git config --global --bool --add http.sslVerify false
