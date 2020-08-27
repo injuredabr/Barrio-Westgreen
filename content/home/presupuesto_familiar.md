@@ -75,4 +75,10 @@ El Señor declaró: “… es mi propósito abastecer a mis santos” (D. y C. 1
 
 La Primera Presidencia
 
-{{< figure library="true" src="Hoja de presupuesto.png" title="Hoja de presupuesto por mes" >}}
+{{< gallery album="<images>" >}}
+  gallery_item:
+- album: <images>
+  image: <Hoja de presupuesto>.png
+  caption: Presupuesto Familiar mensual
+  
+
