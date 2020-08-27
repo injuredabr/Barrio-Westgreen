@@ -68,7 +68,7 @@ subtitle = ""
 +++
 
 Puntos para planear como familia.
-Reúnase con los integrantes de su grupo familiar o con su asistente de cuidados  de salud personales. Hable sobre los peligros de incendio, clima severo y otras emergencias que pudieran ocurrir en el area donde ustes vive.
+Reúnase con los integrantes de su grupo familiar o con su asistente de cuidados  de salud personales. Hable sobre los peligros de incendio, clima severo y otras emergencias que pudieran ocurrir en el área donde ustes vive.
 
 
 
