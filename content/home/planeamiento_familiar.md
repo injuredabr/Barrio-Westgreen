@@ -139,5 +139,4 @@ Escoja dos lugares de reunión:
 
 [Kit de Emergencia](https://raw.githubusercontent.com/injuredabr/Barrio-Westgreen/master/assets/images/kit%20de%20emergencia.png)
 
-{{< figure library="true" src="assets/images/kit de emergencia.png" title="Kit de Emergencia" >}}
 
